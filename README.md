@@ -15,9 +15,7 @@ pueden transformar la presentación y la percepción de una institución en lín
 
 - **HTML5:** Estructura semántica y accesible.
 - **CSS3:** Estilos modernos y responsivos.
-- **JavaScript:** Interactividad del lado del cliente para mejorar la experiencia del usuario.
-- (Opcional) **React:** Para componentes reutilizables y una mejor gestión del estado de la aplicación.
-
+ 
 ## Características Principales
 
 - **Diseño Responsivo:** Asegura que el contenido sea accesible y estéticamente agradable en cualquier tamaño de pantalla.
